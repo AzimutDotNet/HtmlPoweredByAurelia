@@ -1,2 +1,0 @@
-# HtmlPoweredByAurelia
-Created with CodeSandbox
